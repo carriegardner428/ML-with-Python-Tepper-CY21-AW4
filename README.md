@@ -1,6 +1,5 @@
 
 # Machine Learning with Python
-==============================
 
 ## Tepper MBA PTOH CY21 AW4 Workshop
 
@@ -17,6 +16,6 @@
 1. Install Anaconda
 2. Clone this project
 3. Install Dependencies
-4. Add Kernel, `python -m ipykernel install --user --name=python3`
+4. Add Kernel, `python -m ipykernel install --user --name=ml`
 5. Run Jupyter, `jupyter notebook`
 
