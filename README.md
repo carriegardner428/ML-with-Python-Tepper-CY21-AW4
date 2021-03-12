@@ -22,7 +22,7 @@
 3. Open Jupyter notebook!
 
 
-#### Host Install
+##### Host Install
 1. Install Anaconda
 2. Clone this project
 3. Install Dependencies
