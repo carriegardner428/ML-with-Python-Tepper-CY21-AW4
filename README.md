@@ -6,11 +6,10 @@
 
 ### Quick Start
 
-#### Want to play with these notebooks online without having to install anything? Use Colab!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carriegardner428/ML-with-Python-Tepper-CY21-AW4/blob/main/)
 
-* **Recommended**: open this repository in [Colaboratory](https://colab.research.google.com/github/carriegardner428/ML-with-Python-Tepper-CY21-AW4/blob/main/):
+#### Want to play with these notebooks online without having to install anything? Use [Google's Colaboratory](https://colab.research.google.com/github/carriegardner428/ML-with-Python-Tepper-CY21-AW4/blob/main/)!
 
-<a href="https://colab.research.google.com/github/carriegardner428/ML-with-Python-Tepper-CY21-AW4/blob/main/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
 
 
 #### Want to install this project on your own machine?
