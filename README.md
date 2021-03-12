@@ -13,6 +13,16 @@
 
 
 #### Want to install this project on your own machine?
+
+##### Docker Install
+1. Build Docker Image
+   - `docker build . -t ml`
+2. Run Docker Container
+   - `docker run -p 8888:8888 -v $(pwd):/home/jovyan/work ml`
+3. Open Jupyter notebook!
+
+
+#### Host Install
 1. Install Anaconda
 2. Clone this project
 3. Install Dependencies
