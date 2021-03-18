@@ -1,0 +1,5 @@
+# visualization 
+dash==1.19.0
+plotly
+git+https://github.com/huggingface/transformers.git
+fbprophet
